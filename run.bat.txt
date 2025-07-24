@@ -1,0 +1,2 @@
+C:\selenium_automation\projectWorkspace\OpencartV121
+mvn test

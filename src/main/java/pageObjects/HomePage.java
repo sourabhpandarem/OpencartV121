@@ -19,6 +19,9 @@ public class HomePage {
 
     @FindBy(linkText = "Register")
     WebElement lnkRegister;
+    
+    @FindBy(linkText ="login")
+    WebElement lnkLogin;
 
     public void clickMyAccount() {
         lnkMyAccount.click();
@@ -26,5 +29,8 @@ public class HomePage {
 
     public void clickRegister() {
         lnkRegister.click();
+    }
+    public void clickLogin() {
+    	lnkLogin.click();
     }
 }

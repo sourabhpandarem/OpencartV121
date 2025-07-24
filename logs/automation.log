@@ -1,0 +1,127 @@
+17:31:37.615 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:17)oggger - ****startign TC_002_LoginTest******
+17:33:54.894 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:17)oggger - ****startign TC_002_LoginTest******
+17:35:23.235 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:17)oggger - ****startign TC_002_LoginTest******
+17:48:34.056 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****startign TC_002_LoginTest******
+17:56:30.047 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****startign TC_002_LoginTest******
+17:56:53.951 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****startign TC_002_LoginTest******
+10:11:51.579 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****startign TC_002_LoginTest******
+10:12:30.525 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+10:12:30.525 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+10:12:31.096 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+10:12:31.578 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+10:12:31.733 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+10:12:31.741 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+10:12:32.214 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+10:12:32.216 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+10:12:33.867 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+10:12:34.144 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+10:12:34.603 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+10:12:34.604 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+10:12:34.639 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+10:12:34.675 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+10:12:34.798 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+10:12:34.871 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+10:12:36.962 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+10:12:36.982 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+15:11:44.378 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+15:11:45.068 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+15:11:45.636 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+15:11:45.660 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+15:11:49.523 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+15:11:49.684 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+15:12:45.213 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+15:12:45.435 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+15:12:46.728 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+15:12:46.733 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+15:12:50.310 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+15:12:50.409 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+15:13:16.442 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+15:13:17.144 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+15:13:17.817 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+15:13:17.826 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+15:13:21.596 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+15:13:21.741 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+15:13:24.745 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****startign TC_002_LoginTest******
+15:20:40.974 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+15:20:41.671 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+15:20:42.190 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+15:20:42.193 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+15:20:46.166 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+15:20:46.328 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+15:20:49.395 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****startign TC_002_LoginTest******
+15:22:33.329 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+15:22:34.102 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+15:22:34.764 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+15:22:34.782 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+15:22:38.267 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+15:22:38.447 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+15:22:41.975 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****startign TC_002_LoginTest******
+15:31:02.958 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+15:31:03.742 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+15:31:04.540 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+15:31:04.544 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+15:31:08.452 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+15:31:08.547 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+15:31:11.557 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****startign TC_002_LoginTest******
+15:45:03.460 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+15:45:05.245 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+15:45:11.534 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+15:45:11.546 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+15:45:15.943 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+15:45:16.040 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+15:45:58.225 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+15:45:58.862 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+15:45:59.500 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+15:45:59.505 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+15:46:03.617 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+15:46:03.788 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+18:01:20.788 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+18:01:21.202 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+18:01:21.604 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+18:01:21.606 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+18:01:23.711 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+18:01:23.745 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+18:01:55.505 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+18:01:55.928 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+18:01:56.342 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+18:01:56.344 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+18:01:57.840 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+18:01:58.581 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+18:02:24.361 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+18:02:24.852 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+18:02:25.342 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+18:02:25.344 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+18:02:27.612 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+18:02:27.652 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+17:59:38.680 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+17:59:39.155 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+17:59:39.564 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+17:59:39.566 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+17:59:41.828 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+17:59:41.866 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+18:09:15.504 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+18:09:15.930 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+18:09:16.321 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+18:09:16.324 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+18:09:18.746 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+18:09:18.780 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+18:11:12.856 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+18:11:13.265 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+18:11:13.670 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+18:11:13.671 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+18:11:15.915 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+18:11:15.954 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+18:12:55.561 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+18:12:56.042 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+18:12:56.433 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+18:12:56.434 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+18:12:58.639 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+18:12:58.680 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+18:16:18.871 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:12)oggger - ****** Starting TC001_AccountRegistrationTest *******
+18:16:19.273 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - Clicked on MyAccount link
+18:16:19.676 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on Register link
+18:16:19.678 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:23)oggger - Providing customer details
+18:16:21.772 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:40)oggger - Validating confirmation message...
+18:16:21.830 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:51)oggger - ****** Finished TC001_AccountRegistrationTest *******
+18:16:23.406 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****startign TC_002_LoginTest******
+15:54:32.172 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****startign TC_002_LoginTest******
